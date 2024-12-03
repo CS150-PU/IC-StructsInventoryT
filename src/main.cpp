@@ -30,17 +30,17 @@ struct Item {
 };
 
 char getMenuSelection ();
-void getItem (Item& item);
-int getItems (Item items[], string fileName);
-void printItem (const Item& item);
-void printItems (const Item items[], int size);
-double getInventoryValue (const Item items[], int size);
-void buyItem (Item items[], int &size, string id, double quantity);
+void getItem (ifstream &inFile, Item& sItem);
+int getItems (Item sItems[], string fileName);
+void printItem (const Item& sItem);
+void printItems (const Item sItems[], int size);
+double getInventoryValue (const Item sItems[], int size);
+void buyItem (Item sItems[], int &size, string id, double quantity);
 
 int main () {
   const int MAX_ITEMS = 100;
   const string ITEM_FILE_NAME = "data/inventory.txt";
-  Item items[MAX_ITEMS];
+  Item sItems[MAX_ITEMS];
   int size;
   char menuSelection;
 
