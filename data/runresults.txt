@@ -1,0 +1,92 @@
+*** Inventory Menu ***
+
+P)rint Inventory
+T)otal Inventory Value
+B)uy Item
+Q)uit
+
+Select: P
+Product: Almonds ID: 001 Price: $5.99 Quantity: 50.00
+Product: Bread ID: 002 Price: $2.49 Quantity: 30.00
+Product: Milk ID: 003 Price: $3.99 Quantity: 20.00
+Product: Yogurt ID: 004 Price: $1.29 Quantity: 25.00
+Product: Quinoa ID: 005 Price: $4.99 Quantity: 40.00
+Product: Rice ID: 006 Price: $3.49 Quantity: 45.00
+Product: Berries ID: 007 Price: $4.49 Quantity: 35.00
+Product: Oil ID: 008 Price: $8.99 Quantity: 15.00
+Product: Spinach ID: 009 Price: $1.99 Quantity: 60.00
+Product: Eggs ID: 010 Price: $2.99 Quantity: 50.00
+Product: Chicken ID: 011 Price: $7.49 Quantity: 25.00
+Product: Honey ID: 012 Price: $6.99 Quantity: 10.00
+Product: Bars ID: 013 Price: $3.79 Quantity: 30.00
+Product: Cheese ID: 014 Price: $4.59 Quantity: 20.00
+Product: Chocolate ID: 015 Price: $2.99 Quantity: 40.00
+
+
+*** Inventory Menu ***
+
+P)rint Inventory
+T)otal Inventory Value
+B)uy Item
+Q)uit
+
+Select: T
+Inventory Value: $1986.05
+
+*** Inventory Menu ***
+
+P)rint Inventory
+T)otal Inventory Value
+B)uy Item
+Q)uit
+
+Select: B
+Enter item ID: 001
+Enter quantity: 2
+
+
+*** Inventory Menu ***
+
+P)rint Inventory
+T)otal Inventory Value
+B)uy Item
+Q)uit
+
+Select: B
+Enter item ID: 015
+Enter quantity: 40
+
+
+*** Inventory Menu ***
+
+P)rint Inventory
+T)otal Inventory Value
+B)uy Item
+Q)uit
+
+Select: P
+Product: Almonds ID: 001 Price: $5.99 Quantity: 48.00
+Product: Bread ID: 002 Price: $2.49 Quantity: 30.00
+Product: Milk ID: 003 Price: $3.99 Quantity: 20.00
+Product: Yogurt ID: 004 Price: $1.29 Quantity: 25.00
+Product: Quinoa ID: 005 Price: $4.99 Quantity: 40.00
+Product: Rice ID: 006 Price: $3.49 Quantity: 45.00
+Product: Berries ID: 007 Price: $4.49 Quantity: 35.00
+Product: Oil ID: 008 Price: $8.99 Quantity: 15.00
+Product: Spinach ID: 009 Price: $1.99 Quantity: 60.00
+Product: Eggs ID: 010 Price: $2.99 Quantity: 50.00
+Product: Chicken ID: 011 Price: $7.49 Quantity: 25.00
+Product: Honey ID: 012 Price: $6.99 Quantity: 10.00
+Product: Bars ID: 013 Price: $3.79 Quantity: 30.00
+Product: Cheese ID: 014 Price: $4.59 Quantity: 20.00
+Product: Chocolate ID: 015 Price: $2.99 Quantity: 0.00
+
+
+*** Inventory Menu ***
+
+P)rint Inventory
+T)otal Inventory Value
+B)uy Item
+Q)uit
+
+Select: Q
